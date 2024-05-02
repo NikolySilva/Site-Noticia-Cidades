@@ -18,14 +18,14 @@ body {
 
 #topo {
     height: 150px;
-    background: url(../imagens/detalhe-topo.png) no-repeat right top;
-
+    background: url(../imagens/detalhe-topo.png) no-repeat right center;
+    padding-top: 25px;
 }
 
 .logo{
     width: 152px;
     height: 66px;
-    background: url(../imagens/logo.png) no-repeat center;
+    background: url(../imagens/logo.png) no-repeat ;
     text-indent: -3000px;
 }
 
@@ -74,4 +74,44 @@ body.fotos #navegacao a#fotos
     color: #fff;
     background: #de003e;
     cursor: text;
+}
+
+/*Configura layout de três colunas*/
+#conteudo {
+    margin-top: 60px;
+    background: #f5f5f5;
+}
+
+#primario{
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 195px;
+    background: blue;
+}
+
+#secundario{
+    width: 270px;
+    float: left;
+    margin: 0 0 20px 15px;
+    background: green;
+}
+
+#lateral{
+    width: 180px;
+    float: left;
+    margin: 0 0 20px -750px;
+    background: yellow;
+}
+
+/*Rodapé*/
+
+#container-rodape{
+    background: #294c71;
+    padding: 20px;
+}
+
+#rodape{
+    width: 750px;
+    margin: 0 auto;
+    color: #fff;
 }
