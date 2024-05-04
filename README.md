@@ -1,9 +1,9 @@
 # Site-Noticia-Cidades
 
 ## Sobre o Projeto
-link do site
+[Notícias Cidade](https://site-noticia-cidades.vercel.app/)
 
-O Projeto Notícia Cidade é o quarto website criado através da plataforma Udemy, como parte do curso abrangente ["Desenvolvimento Web Completo - 20 cursos + 20 projetos"](https://www.udemy.com/course/web-completo/). 
+O Projeto Notícia Cidade é o quarto website criado através da plataforma Udemy, como parte do curso abrangente ["Desenvolvimento Web Completo - 20 cursos + 20 projetos"](https://www.udemy.com/course/web-completo/).  
 
 ## Tecnologias utilizadas
 ### Front end
